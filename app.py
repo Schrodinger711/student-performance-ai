@@ -73,7 +73,7 @@ with col2:
 st.divider()
 
 # Prediction button
-if st.button("🎯 Predict Final Grade", use_container_width=True):
+if st.button("🎯 Predict Final Grade", width=True):
 
     input_data = pd.DataFrame({
         "age": [age],
