@@ -3,6 +3,11 @@
 A beginner-friendly machine learning project that predicts a student's final
 grade (G3) using previous academic performance and selected student information.
 
+## 🚀 Live Demo
+
+Try the app here:
+https://student-performance-aifirstmlproject007.streamlit.app/
+
 ## 📌 Project Overview
 
 The goal of this project is to build a machine learning model that predicts
